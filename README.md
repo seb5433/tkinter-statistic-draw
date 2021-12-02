@@ -14,3 +14,6 @@ view.make_table([45, 38, 92, 54, 100], 20, ["Geometria",
 
 master.mainloop()
 ```
+OUTPUT ->
+![alt text](https://github.com/seb5433/tkinter-statistic-draw/blob/main/screenshot.jpeg)
+
